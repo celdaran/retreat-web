@@ -34,7 +34,7 @@
     "showReset": true,
     "dynamicHeight": "FIXED",
     "autoGenerateForm": true,
-    "bottomRowBeforeCollapse": 89,
+    "bottomRowBeforeCollapse": 57,
     "resetButtonStyles": {
         "boxShadow": "none",
         "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
@@ -124,7 +124,7 @@
     },
     "disabledWhenInvalid": true,
     "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
-    "originalBottomRow": 89,
+    "originalBottomRow": 57,
     "schema": {"__root_schema__": {
         "labelTextSize": "0.875rem",
         "identifier": "__root_schema__",

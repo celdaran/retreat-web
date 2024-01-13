@@ -129,7 +129,7 @@
             "index": 3,
             "isDiscardVisible": true,
             "isVisible": true,
-            "label": "created_on",
+            "label": "created on",
             "columnType": "text",
             "thousandSeparator": true,
             "horizontalAlignment": "LEFT",
