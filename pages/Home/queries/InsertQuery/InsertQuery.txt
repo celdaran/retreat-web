@@ -1,0 +1,8 @@
+INSERT INTO mytable (
+	descr,
+	price,
+	created_on)
+VALUES (
+	'{{insert_form.formData.descr}}',
+	'{{insert_form.formData.price}}',
+	'{{insert_form.formData.created_on}}');

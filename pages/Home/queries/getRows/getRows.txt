@@ -1,0 +1,1 @@
+SELECT id, descr, price, created_on FROM mytable;

@@ -1,0 +1,2 @@
+DELETE FROM mytable
+  WHERE id = {{MyTable1.triggeredRow.id}};

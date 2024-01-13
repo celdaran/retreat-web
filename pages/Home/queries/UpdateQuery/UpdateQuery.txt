@@ -1,0 +1,5 @@
+UPDATE mytable SET
+		descr = '{{update_form.fieldState.descr.isVisible ? update_form.formData.descr : update_form.sourceData.descr}}',
+		price = '{{update_form.fieldState.descr.isVisible ? update_form.formData.price : update_form.sourceData.price}}',
+		created_on = '{{update_form.fieldState.created_on.isVisible ? update_form.formData.created_on : update_form.sourceData.created_on}}'
+WHERE id = {{MyTable1.selectedRow.id}};
