@@ -10,8 +10,8 @@
         "click",
         "submit"
     ],
-    "topRow": 19,
-    "bottomRow": 23,
+    "topRow": 2,
+    "bottomRow": 6,
     "parentRowSpace": 10,
     "type": "ICON_BUTTON_WIDGET",
     "hideCard": false,
@@ -19,7 +19,7 @@
     "animateLoading": true,
     "parentColumnSpace": 19.296875,
     "dynamicTriggerPathList": [{"key": "onClick"}],
-    "leftColumn": 36,
+    "leftColumn": 25,
     "dynamicBindingPathList": [
         {"key": "buttonColor"},
         {"key": "borderRadius"}
@@ -27,7 +27,7 @@
     "isDisabled": false,
     "key": "z1gnkiyazt",
     "isDeprecated": false,
-    "rightColumn": 40,
+    "rightColumn": 29,
     "iconName": "refresh",
     "widgetId": "lgck81deih",
     "minWidth": 50,
